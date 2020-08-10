@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: rgb(160, 160, 160);
+}
+.container{
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid rgb(140, 96, 182);
+  border-radius: 6px;
+}
+
+.card .card-header{
+  background-color: rgb(140, 96, 182);
+}
+
+h1, h2 {
+  font-weight: 400;
+  color: #fff;
+}
+
+th {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+td {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.btn{
+  font-size: 18px;
+}
