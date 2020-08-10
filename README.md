@@ -3,13 +3,13 @@ Plataforma construída no curso [Formação NodeJS](https://www.udemy.com/course
 
 ## Tecnolgias utilizadas
 
-<img src="/icons/js_icon.png" width="50" height="50"/>
+<img src="/icons/js_icon_1.png" width="50" height="50"/>
 
 <img src="/icons/html_icon.png" width="50" height="50"/>
 
 <img src="/icons/css_icon.png" width="50" height="50"/>
 
-<img src="/icons/bootstrap.png" width="50" height="50"/>
+<img src="/icons/bootstrap_1.png" width="50" height="50"/>
 
 
 ## Descrição
