@@ -3,17 +3,14 @@ Plataforma construída no curso [Formação NodeJS](https://www.udemy.com/course
 
 ## Tecnolgias utilizadas
 
-<img src="/icons/js_icon_2.png" width="50" height="50"/>
-
-[Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+<img src="/icons/js_icon.png" width="50" height="50"/>
 
 <img src="/icons/html_icon.png" width="50" height="50"/>
 
-[HTML5](https://www.w3schools.com/html/)
-
 <img src="/icons/css_icon.png" width="50" height="50"/>
 
-[CSS3](https://www.w3schools.com/css/)
+<img src="/icons/bootstrap.png" width="50" height="50"/>
+
 
 ## Descrição
 
